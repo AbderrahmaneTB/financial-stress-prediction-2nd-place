@@ -1,0 +1,14 @@
+# Competition data (download it from Zindi; not shared here)
+/*.csv
+/data/
+
+# Files written when the scripts run
+submissions/best_model_r1mzf.csv
+submissions/final_model_mz.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/

@@ -1,0 +1,3 @@
+# Keep the submission files byte for byte: the scripts compare them by SHA-256
+*.csv -text
+*.pdf binary
